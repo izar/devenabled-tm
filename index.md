@@ -6,3 +6,12 @@ Did you ever ask yourself what is Threat Modeling, what it can give you and what
 
 If so, this is the book for you. 
 
+
+
+<script src="https://utteranc.es/client.js"
+        repo="[ENTER REPO HERE]"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
