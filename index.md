@@ -9,7 +9,7 @@ If so, this is the book for you.
 
 
 <script src="https://utteranc.es/client.js"
-        repo="[ENTER REPO HERE]"
+        repo="izar/devenabled-tm"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
