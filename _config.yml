@@ -4,5 +4,5 @@ description: A book by Izar Tarandach and Matthew J. Coles
 logo: cover.jpg
 
 plugins:
-	- jekyll-feed
+    - jekyll-feed
 
