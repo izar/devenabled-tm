@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: "Threat Modeling: A  Practical Guide for Development Teams"
 description: A book by Izar Tarandach and Matthew J. Coles
-logo: cover.jpg
+logo: vertical.png
 
 plugins:
     - jekyll-feed
