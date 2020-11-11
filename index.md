@@ -11,8 +11,6 @@ Did you ever ask yourself what is Threat Modeling, how can it help you bake secu
 
 If so, <a href="https://www.amazon.com/Threat-Modeling-Identification-Avoidance-Secure/dp/1492056553/ref=sr_1_1?dchild=1&keywords=tarandach&sr=8-1">this</a> is the book for you.
 
-
-
 <script src="https://utteranc.es/client.js"
         repo="izar/devenabled-tm"
         issue-term="pathname"
@@ -20,3 +18,5 @@ If so, <a href="https://www.amazon.com/Threat-Modeling-Identification-Avoidance-
         crossorigin="anonymous"
         async>
 </script>
+
+Available at <a href="https://www.amazon.com/Threat-Modeling-Identification-Avoidance-Secure/dp/1492056553/ref=sr_1_1?dchild=1&keywords=tarandach&qid=1605115844&sr=8-1">Amazon</a>, <a href="https://www.barnesandnoble.com/w/threat-modeling-izar-tarandach/1137728005?ean=9781492056553">Barnes&Noble</a> and other book sellers.
