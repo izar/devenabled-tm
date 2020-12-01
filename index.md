@@ -9,6 +9,7 @@ Did you ever ask yourself what is Threat Modeling, how can it help you bake secu
 
 If so, <a href="https://www.amazon.com/Threat-Modeling-Identification-Avoidance-Secure/dp/1492056553/ref=sr_1_1?dchild=1&keywords=tarandach&sr=8-1">this</a> is the book for you.
 
+{% if site.posts %}
 We also have some of our ongoing writings here:
 
 <ul>
@@ -18,6 +19,7 @@ We also have some of our ongoing writings here:
     </li>
   {% endfor %}
 </ul>
+{% endif %}
 
 
 <script src="https://utteranc.es/client.js"
