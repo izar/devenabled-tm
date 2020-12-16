@@ -34,3 +34,6 @@ We also have some of our ongoing writings here:
 </script>
 
 Available at <a href="https://www.amazon.com/Threat-Modeling-Identification-Avoidance-Secure/dp/1492056553/ref=sr_1_1?dchild=1&keywords=tarandach&qid=1605115844&sr=8-1">Amazon</a>, <a href="https://www.barnesandnoble.com/w/threat-modeling-izar-tarandach/1137728005?ean=9781492056553">Barnes&Noble</a> and other book sellers.
+
+
+You should also check out the <a href="https://www.threatmodelingmanifesto.org/">Threat Modeling Manifesto</a>.
